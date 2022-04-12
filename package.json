@@ -2,11 +2,11 @@
   "name": "event-go-api",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/server.js",
   "scripts": {
     "build": "tsc --build",
     "clean": "tsc --build --clean",
-    "start": "tsc --build && node dist/index.js"
+    "start": "tsc --build && node dist/server.js"
   },
   "author": "",
   "license": "ISC",
