@@ -8,5 +8,8 @@
   "license": "ISC",
   "dependencies": {
     "yarn": "^1.22.18"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
   }
 }
